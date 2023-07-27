@@ -1,0 +1,8 @@
+- Create a subdomain
+- create a nodejs application
+- the application root folder will be the same as the subdomain
+- save the information
+- check the file system for the subdomain
+- stop the application
+- run npm install in UI
+- start the nodejs project
